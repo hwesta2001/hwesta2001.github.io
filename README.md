@@ -1,6 +1,5 @@
-# hsnylmz
 ## Contact
-For any questions or collaboration, please contact me at [email@email.com](mailto:hasanhw@gmail.com)
+For any questions or collaboration, please contact me at [hasanhw@gmail.com](mailto:hasanhw@gmail.com)
 
 # Game Dev Portfolio
 
@@ -12,8 +11,8 @@ This portfolio showcases the games I have developed and the levels featuring 3D 
 **Description:** Game1 is a fast-paced action game. Players try to score high by overcoming various obstacles.
 
 **Screenshots:**
-- ![Game1 Screenshot 1](assets/images/game1_1.jpg)
-- ![Game1 Screenshot 2](assets/images/game1_2.jpg)
+- ![Screenshot 1](assets/images/game1.jpg)
+- ![Screenshot 2](assets/images/game1.jpg)
 
 **Video:**
 - [YouTube Video](https://www.youtube.com/watch?v=game1video)
@@ -24,9 +23,9 @@ This portfolio showcases the games I have developed and the levels featuring 3D 
 **Description:** Game2 is a puzzle adventure game focused on solving challenging puzzles across different levels.
 
 **Screenshots:**
-- ![Game2 Screenshot 1](assets/images/game2_1.jpg)
-- ![Game2 Screenshot 2](assets/images/game2_2.jpg)
-- ![Game2 Screenshot 3](assets/images/game2_3.jpg)
+- ![Screenshot 1](assets/images/game2.jpg)
+- ![Screenshot 2](assets/images/game2.jpg)
+- ![Screenshot 3](assets/images/game3.jpg)
 
 **Video:**
 - [YouTube Video](https://www.youtube.com/watch?v=game2video)
@@ -37,8 +36,8 @@ This portfolio showcases the games I have developed and the levels featuring 3D 
 **Description:** Game3 is a multiplayer racing game. It offers a fun experience with various vehicles and tracks.
 
 **Screenshots:**
-- ![Game3 Screenshot 1](assets/images/game3_1.jpg)
-- ![Game3 Screenshot 2](assets/images/game3_2.jpg)
+- ![Screenshot 1](assets/images/game3_1.jpg)
+- ![Screenshot 2](assets/images/game3_2.jpg)
 
 **Video:**
 - [YouTube Video](https://www.youtube.com/watch?v=game3video)
