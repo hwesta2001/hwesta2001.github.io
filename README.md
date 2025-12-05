@@ -1,3 +1,10 @@
+<style>
+body {
+  background-color: #7885ff;
+  color: white;
+}
+</style>
+
 ## Contact
 For any questions or collaboration, please contact me at [hasanhw@gmail.com](mailto:hasanhw@gmail.com)
 
