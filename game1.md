@@ -18,6 +18,7 @@ Welcome to the development blog for Game1! Here you can find daily updates, prog
 ### December 3, 2025
 - Implemented a new power-up system with three unique abilities.
 - Updated UI elements for better readability.
+
 <img src="assets/images/game2.JPG" alt="Power-Up Screenshot" width="200" />
 
 ### December 2, 2025
@@ -28,42 +29,51 @@ Welcome to the development blog for Game1! Here you can find daily updates, prog
 ### December 1, 2025
 - Refactored player movement code for better performance.
 - Added new sound effects for item pickups.
+
 <img src="assets/images/game3.JPG" alt="Player Movement Screenshot" width="200" />
 
 ### November 30, 2025
 - Created a new enemy type: "Charger" with unique attack patterns.
 - Improved collision detection for obstacles.
+
 <img src="assets/images/game1.JPG" alt="Charger Enemy Screenshot" width="200" />
 
 ### November 29, 2025
 - Updated main character animations for smoother transitions.
 - Fixed minor UI bugs in the pause menu.
+
 - [YouTube: Character Animation Demo](https://www.youtube.com/watch?v=game1animation)
 
 ### November 28, 2025
 - Added support for gamepad controls.
 - Improved save/load system reliability.
+
 <img src="assets/images/game1.JPG" alt="Gamepad Controls Screenshot" width="200" />
 
 ### November 27, 2025
 - Designed new level layout for increased challenge.
 - Updated tutorial section with new tips.
+
 <img src="assets/images/game1.JPG" alt="New Level Layout" width="200" />
 
 ### November 26, 2025
 - Implemented daily rewards system.
 - Fixed graphical glitches in level 1.
+
 - [YouTube: Daily Rewards Feature](https://www.youtube.com/watch?v=game1rewards)
 
 ---
 
-## About Game1
+# About Game1
 Game1 is a fast-paced action game where players overcome obstacles and aim for high scores.
 
 **Screenshots:**
+
 - <img src="assets/images/game1.JPG" alt="Game1 Main Screenshot" width="200" />
 - <img src="assets/images/game1.JPG" alt="Game1 Gameplay" width="200" />
+
 **Video Preview:**
+
 - [YouTube: Game1 Trailer](https://www.youtube.com/watch?v=game1video)
 
 Stay tuned for more updates!
