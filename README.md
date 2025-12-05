@@ -20,7 +20,7 @@ This portfolio showcases the games I have developed and the levels featuring 3D 
 
 ---
 
-### Game2
+### [Game2](game1.md)
 **Description:** Game2 is a puzzle adventure game focused on solving challenging puzzles across different levels.
 
 **Video:**
@@ -33,7 +33,7 @@ This portfolio showcases the games I have developed and the levels featuring 3D 
 
 ---
 
-### Game3
+### [Game3](game1.md)
 **Description:** Game3 is a multiplayer racing game. It offers a fun experience with various vehicles and tracks.
 
 **Video:**
