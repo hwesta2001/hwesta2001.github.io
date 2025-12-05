@@ -7,12 +7,13 @@ Welcome to the development blog for Game1! Here you can find daily updates, prog
 ### December 5, 2025
 - Improved enemy AI pathfinding for smoother movement.
 - Fixed a bug causing score calculation errors on level completion.
+
 <img src="assets/images/game1.JPG" alt="AI Pathfinding Screenshot" width="200" />
 
 ### December 4, 2025
 - Added new background music for the main menu.
 - Optimized texture loading for faster startup times.
-[YouTube: Main Menu Music Preview](https://www.youtube.com/watch?v=game1music)
+- [YouTube: Main Menu Music Preview](https://www.youtube.com/watch?v=game1music)
 
 ### December 3, 2025
 - Implemented a new power-up system with three unique abilities.
