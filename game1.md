@@ -7,17 +7,17 @@ Welcome to the development blog for Game1! Here you can find daily updates, prog
 ### December 5, 2025
 - Improved enemy AI pathfinding for smoother movement.
 - Fixed a bug causing score calculation errors on level completion.
-- <img src="assets/images/game1.JPG" alt="AI Pathfinding Screenshot" width="200" />
+<img src="assets/images/game1.JPG" alt="AI Pathfinding Screenshot" width="200" />
 
 ### December 4, 2025
 - Added new background music for the main menu.
 - Optimized texture loading for faster startup times.
-- [YouTube: Main Menu Music Preview](https://www.youtube.com/watch?v=game1music)
+[YouTube: Main Menu Music Preview](https://www.youtube.com/watch?v=game1music)
 
 ### December 3, 2025
 - Implemented a new power-up system with three unique abilities.
 - Updated UI elements for better readability.
-- <img src="assets/images/game2.JPG" alt="Power-Up Screenshot" width="200" />
+<img src="assets/images/game2.JPG" alt="Power-Up Screenshot" width="200" />
 
 ### December 2, 2025
 - Integrated YouTube video preview in the game gallery.
@@ -27,12 +27,12 @@ Welcome to the development blog for Game1! Here you can find daily updates, prog
 ### December 1, 2025
 - Refactored player movement code for better performance.
 - Added new sound effects for item pickups.
-- <img src="assets/images/game3.JPG" alt="Player Movement Screenshot" width="200" />
+<img src="assets/images/game3.JPG" alt="Player Movement Screenshot" width="200" />
 
 ### November 30, 2025
 - Created a new enemy type: "Charger" with unique attack patterns.
 - Improved collision detection for obstacles.
-- <img src="assets/images/game1.JPG" alt="Charger Enemy Screenshot" width="200" />
+<img src="assets/images/game1.JPG" alt="Charger Enemy Screenshot" width="200" />
 
 ### November 29, 2025
 - Updated main character animations for smoother transitions.
@@ -42,12 +42,12 @@ Welcome to the development blog for Game1! Here you can find daily updates, prog
 ### November 28, 2025
 - Added support for gamepad controls.
 - Improved save/load system reliability.
-- <img src="assets/images/game1.JPG" alt="Gamepad Controls Screenshot" width="200" />
+<img src="assets/images/game1.JPG" alt="Gamepad Controls Screenshot" width="200" />
 
 ### November 27, 2025
 - Designed new level layout for increased challenge.
 - Updated tutorial section with new tips.
-- <img src="assets/images/game1.JPG" alt="New Level Layout" width="200" />
+<img src="assets/images/game1.JPG" alt="New Level Layout" width="200" />
 
 ### November 26, 2025
 - Implemented daily rewards system.
