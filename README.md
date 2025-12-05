@@ -10,37 +10,39 @@ This portfolio showcases the games I have developed and the levels featuring 3D 
 ### Game1
 **Description:** Game1 is a fast-paced action game. Players try to score high by overcoming various obstacles.
 
+**Video:**
+- [YouTube Video](https://www.youtube.com/watch?v=game1video)
+
 **Screenshots:**
 - ![Screenshot 1](assets/images/game1.JPG)
 - ![Screenshot 2](assets/images/game1.JPG)
 
-**Video:**
-- [YouTube Video](https://www.youtube.com/watch?v=game1video)
 
 ---
 
 ### Game2
 **Description:** Game2 is a puzzle adventure game focused on solving challenging puzzles across different levels.
 
+**Video:**
+- [YouTube Video](https://www.youtube.com/watch?v=game2video)
+
 **Screenshots:**
 - ![Screenshot 1](assets/images/game2.JPG)
 - ![Screenshot 2](assets/images/game2.JPG)
 - ![Screenshot 3](assets/images/game3.JPG)
-
-**Video:**
-- [YouTube Video](https://www.youtube.com/watch?v=game2video)
 
 ---
 
 ### Game3
 **Description:** Game3 is a multiplayer racing game. It offers a fun experience with various vehicles and tracks.
 
-**Screenshots:**
-- ![Screenshot 1](assets/images/game3_1.JPG)
-- ![Screenshot 2](assets/images/game3_2.JPG)
-
 **Video:**
 - [YouTube Video](https://www.youtube.com/watch?v=game3video)
+
+**Screenshots:**
+- ![Screenshot 1](assets/images/game3.JPG)
+- ![Screenshot 2](assets/images/game3.JPG)
+
 
 ---
 
