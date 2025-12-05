@@ -1,2 +1,2 @@
-# hsnylmz.github.io
+# hsnylmz
 My Personal Development Log
