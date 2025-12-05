@@ -7,7 +7,7 @@ This portfolio showcases the games I have developed and the levels featuring 3D 
 
 ## Games
 
-### Game1
+### [Game1](game1.md)
 **Description:** Game1 is a fast-paced action game. Players try to score high by overcoming various obstacles.
 
 **Video:**
