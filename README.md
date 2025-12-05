@@ -7,7 +7,7 @@ This portfolio showcases the games I have developed and the levels featuring 3D 
 
 ## Games
 ### Game1
-[**Devlog**](game1.md)
+[**Devlog**](game1.md)<br>
 **Description:** Game1 is a fast-paced action game. Players try to score high by overcoming various obstacles.
 
 **Video:**
@@ -20,7 +20,7 @@ This portfolio showcases the games I have developed and the levels featuring 3D 
 
 ---
 ### Game2
-[**Devlog**](game1.md) 
+[**Devlog**](game1.md)  
 **Description:** Game2 is a puzzle adventure game focused on solving challenging puzzles across different levels.
 
 **Video:**
@@ -33,7 +33,7 @@ This portfolio showcases the games I have developed and the levels featuring 3D 
 
 ---
 ### Game3
-[**Devlog**](game1.md) 
+[**Devlog**](game1.md)  
 **Description:** Game3 is a multiplayer racing game. It offers a fun experience with various vehicles and tracks.
 
 **Video:**
